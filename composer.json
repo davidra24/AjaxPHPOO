@@ -1,0 +1,10 @@
+{
+  "name": "Php resources POO",
+  "description": "Ejercicio de lugares php, html y js",
+  "autoload": {
+    "psr-4": {
+      "php\\": "server/php"
+    }
+  },
+  "require": {}
+}
